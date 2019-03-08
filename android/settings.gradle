@@ -1,0 +1,3 @@
+rootProject.name = 'rnandr'
+
+include ':app'
